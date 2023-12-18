@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DiscountApp-React/static/css/main.d322941c.css",
+    "main.js": "/DiscountApp-React/static/js/main.330dd270.js",
+    "index.html": "/DiscountApp-React/index.html",
+    "main.d322941c.css.map": "/DiscountApp-React/static/css/main.d322941c.css.map",
+    "main.330dd270.js.map": "/DiscountApp-React/static/js/main.330dd270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d322941c.css",
+    "static/js/main.330dd270.js"
+  ]
+}
